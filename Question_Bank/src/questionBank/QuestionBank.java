@@ -1,12 +1,4 @@
-<<<<<<< HEAD:Question_Bank/src/questionBank/QuestionBank.java
-<<<<<<< HEAD:Question_Bank/src/questionBank/QuestionBank.java
 package questionBank;
-=======
-package question_bank;
->>>>>>> 8e84186eb5df60fb6999c5b5714f3dcf7c1c18f4:question_bank/src/question_bank/QuestionBank.java
-=======
-package question_bank;
->>>>>>> 8e84186eb5df60fb6999c5b5714f3dcf7c1c18f4:question_bank/src/question_bank/QuestionBank.java
 
 import java.util.Scanner;
 import java.security.SecureRandom;
