@@ -1,4 +1,4 @@
-package dayoon_lee_exercise1;
+package question_bank;
 
 public class QuestionBankTest {
 
